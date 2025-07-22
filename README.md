@@ -28,4 +28,4 @@ I enjoy exploring how data and AI can solve real-world problems – especially i
 
 ---
 
-> 📬 _Feel free to follow or reach out – I’m always open to learning, sharing, and collaborating as I grow!_
+> 📌 This profile is part of my learning journey in data science and software development.
