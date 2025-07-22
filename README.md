@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Florentine
+## 👋 Hi there,
 
 I'm a high school student from Germany, currently in 10th grade (graduating in 2029), and I'm passionate about technology, data science, and machine learning. My long-term goal is to pursue a dual study program at a tech-focused company.
 
