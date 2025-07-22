@@ -2,7 +2,7 @@
 
 I'm a high school student from Germany, currently in 10th grade (graduating in 2029), and I'm passionate about technology, data science, and machine learning. My long-term goal is to pursue a dual study program at a tech-focused company.
 
-## About Me
+## 👀 About Me
 
 I enjoy exploring how data and AI can solve real-world problems – especially in areas like autonomous driving or health tech. I’m still at the beginning of my journey, but I’m motivated, curious, and love building useful skills step by step.
 
